@@ -5,6 +5,7 @@
 - 🔭 Hoje trabalho como Webdesigner Fullstack
 - 🌱 Estudando Hacking ético
 - 😄 Pronouns: ele/dele
+- 👾 Recentemente formado em Hacking ETICO
 
 <div align="center">
   <a href="https://github.com/Rafaelsnooby1">
