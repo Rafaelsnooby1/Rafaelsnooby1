@@ -7,6 +7,9 @@
 - 😄 Pronouns: ele/dele
 - 👾 Recentemente formado em Hacking ETICO
 - 🎮 Desenvolvedor de aplicativos
+- ⚡ Fato Curioso: Eu adoro andar de skate
+- 👯 Estou procurando colaborar com outros desenvolvedores.
+
 
 <div align="center">
   <a href="https://github.com/Rafaelsnooby1">
@@ -20,6 +23,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
 </div>
 
 ##
