@@ -6,6 +6,7 @@
 - 🌱 Estudando Hacking ético
 - 😄 Pronouns: ele/dele
 - 👾 Recentemente formado em Hacking ETICO
+- 🎮 Desenvolvedor de aplicativos
 
 <div align="center">
   <a href="https://github.com/Rafaelsnooby1">
